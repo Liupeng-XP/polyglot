@@ -2,6 +2,15 @@
 
 母语中文，对照学习 **英语 / 西班牙语 / 日语 / 粤语**。单文件 Web 应用，零构建依赖。
 
+**🌐 线上地址**：https://liupeng-xp.github.io/polyglot/ （GitHub Pages，HTTPS，录音/打分可用）
+
+## 部署更新
+
+内容/代码改完后：
+```bash
+git add -A && git commit -m "更新" && git push   # GitHub Pages 自动重新构建（约 1-2 分钟）
+```
+
 ## 启动
 
 ```bash
